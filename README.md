@@ -4,3 +4,7 @@ REGULAR
 
 ECS
 ![ECS](https://github.com/Amilizia12/ECS_Apple/assets/113862554/5ce94c91-1848-4060-99ca-39488d1673db)
+
+
+
+ECS doesnt work properly 
